@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I had some errors with the emulator that caused a lot of trouble to continue with the project. Other than that, the 
+project went smoothly.
 
 ## License
 
